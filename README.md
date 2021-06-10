@@ -4,5 +4,8 @@ MovieKeeper is a place where you save the location of your movies so that you ca
 ## Requirements
 Python must be installed in your pc to run the scripts
 
+## Usage
+Run the frontend_moviekeeper script
+
 ## Screenshot
 ![movieKeeperout](https://user-images.githubusercontent.com/85640206/121484676-14e64700-c9ed-11eb-98a3-523b1be33c76.png)
